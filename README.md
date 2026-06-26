@@ -205,7 +205,7 @@ Covered:
   <a href="mailto:sunnygupta9968@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://sunny-gupta.dev">
+  <a href="https://sunny-gupta-dev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
